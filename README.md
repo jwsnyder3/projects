@@ -1,3 +1,5 @@
+This repository exists as a temporary display of Projects I have completed ither in class or in my free time.
+
 This repository contains a collection of videos, images, and files.
 
 FragShader.mp4 - A shader I created on https://shaderfrog.com/app
