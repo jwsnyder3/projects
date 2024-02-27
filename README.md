@@ -1,6 +1,6 @@
 This repository contains a collection of videos, images, and files.
 
-FragShader.mp4 - A shader I created on www.shaderfrog.com
+FragShader.mp4 - A shader I created on https://shaderfrog.com/app
 
 SeaWolfDemoReel.mp4 - A brief demo of an arcade game I had recreated using a Javascript based game engine developed in a computer graphics class.
 
